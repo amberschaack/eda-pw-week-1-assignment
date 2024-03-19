@@ -1,17 +1,18 @@
 /* Add a background color to the header element */
 header {
     background-color: maroon;
-    padding: 5px;
+    padding: 1px;
     font-size: 25px;
 }
 /* Add a fun background color to the main element */
 main {
     background-color: goldenrod;
-    padding: 5px;
+    padding: 8px;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
     text-align: center;
+    color: goldenrod;
 }
 /* Make your p tag a different color and italic */
 p {
@@ -35,6 +36,7 @@ ul {
     text-align: center;
     list-style: none;
     font-size: 20px;
+    color: maroon;
 }
 /* Add a background color to the footer element */
 footer {
